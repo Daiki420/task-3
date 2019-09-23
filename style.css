@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+}
+
+header{
+  padding: 30px;
+  background-color: cornflowerblue;
+  background-clip: border-box ;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+main{
+  margin: 0;
+  padding: 0;
+  background-color:darkseagreen;
+}
+
+h1{
+  margin: 0;
+  font-size: 20px;
+}
+
+td, p, footer{
+  text-align: center;
+}
+
+img{
+  float:left;
+  clear:both;
+  width:200px;
+  height:200px;
+}
+
+.midasi{
+  text-align: right;
+}
+
+ul {
+  list-style: none;
+}
+
+footer{
+  background-color: chartreuse
+}
